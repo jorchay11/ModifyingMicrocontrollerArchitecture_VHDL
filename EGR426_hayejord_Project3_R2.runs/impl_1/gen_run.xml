@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7s50csga324-1" LaunchTime="1650435284">
+  <File Type="BITSTR-BMM" Name="Project3_top_bd.bmm"/>
+  <File Type="OPT-METHODOLOGY-DRC" Name="Project3_top_methodology_drc_opted.rpt"/>
+  <File Type="INIT-TIMING" Name="Project3_top_timing_summary_init.rpt"/>
+  <File Type="ROUTE-PWR" Name="Project3_top_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="Project3_top.tcl"/>
+  <File Type="OPT-TIMING" Name="Project3_top_timing_summary_opted.rpt"/>
+  <File Type="OPT-DCP" Name="Project3_top_opt.dcp"/>
+  <File Type="ROUTE-PWR-SUM" Name="Project3_top_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="Project3_top_reports.tcl"/>
+  <File Type="OPT-DRC" Name="Project3_top_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="Project3_top.hwdef"/>
+  <File Type="PWROPT-DCP" Name="Project3_top_pwropt.dcp"/>
+  <File Type="PWROPT-DRC" Name="Project3_top_drc_pwropted.rpt"/>
+  <File Type="PWROPT-TIMING" Name="Project3_top_timing_summary_pwropted.rpt"/>
+  <File Type="PLACE-DCP" Name="Project3_top_placed.dcp"/>
+  <File Type="PLACE-IO" Name="Project3_top_io_placed.rpt"/>
+  <File Type="PLACE-CLK" Name="Project3_top_clock_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="Project3_top_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="Project3_top_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="Project3_top_control_sets_placed.rpt"/>
+  <File Type="PLACE-SIMILARITY" Name="Project3_top_incremental_reuse_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="Project3_top_incremental_reuse_pre_placed.rpt"/>
+  <File Type="PLACE-TIMING" Name="Project3_top_timing_summary_placed.rpt"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="Project3_top_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="Project3_top.bin"/>
+  <File Type="POSTPLACE-PWROPT-TIMING" Name="Project3_top_timing_summary_postplace_pwropted.rpt"/>
+  <File Type="PHYSOPT-DCP" Name="Project3_top_physopt.dcp"/>
+  <File Type="PHYSOPT-DRC" Name="Project3_top_drc_physopted.rpt"/>
+  <File Type="BITSTR-MSK" Name="Project3_top.msk"/>
+  <File Type="PHYSOPT-TIMING" Name="Project3_top_timing_summary_physopted.rpt"/>
+  <File Type="ROUTE-ERROR-DCP" Name="Project3_top_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="Project3_top_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="Project3_top_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="Project3_top_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="Project3_top_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="Project3_top_drc_routed.rpx"/>
+  <File Type="BITSTR-MMI" Name="Project3_top.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="Project3_top_methodology_drc_routed.rpt"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="Project3_top_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="Project3_top_methodology_drc_routed.pb"/>
+  <File Type="ROUTE-PWR-RPX" Name="Project3_top_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="Project3_top_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="Project3_top_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="Project3_top_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="Project3_top_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="Project3_top_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-SIMILARITY" Name="Project3_top_incremental_reuse_routed.rpt"/>
+  <File Type="ROUTE-CLK" Name="Project3_top_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="Project3_top_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="Project3_top_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="Project3_top_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="Project3_top_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="Project3_top_postroute_physopt_bb.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING" Name="Project3_top_timing_summary_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-PB" Name="Project3_top_timing_summary_postroute_physopted.pb"/>
+  <File Type="POSTROUTE-PHYSOPT-TIMING-RPX" Name="Project3_top_timing_summary_postroute_physopted.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW" Name="Project3_top_bus_skew_postroute_physopted.rpt"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-PB" Name="Project3_top_bus_skew_postroute_physopted.pb"/>
+  <File Type="BG-BIT" Name="Project3_top.bit"/>
+  <File Type="POSTROUTE-PHYSOPT-BUS-SKEW-RPX" Name="Project3_top_bus_skew_postroute_physopted.rpx"/>
+  <File Type="BITSTR-RBT" Name="Project3_top.rbt"/>
+  <File Type="BITSTR-NKY" Name="Project3_top.nky"/>
+  <File Type="PDI-FILE" Name="Project3_top.pdi"/>
+  <File Type="RCFI_FILE" Name="Project3_top.rcfi"/>
+  <File Type="CFI_FILE" Name="Project3_top.cfi"/>
+  <File Type="RNPI_FILE" Name="Project3_top.rnpi"/>
+  <File Type="NPI_FILE" Name="Project3_top.npi"/>
+  <File Type="RBD_FILE" Name="Project3_top.rbd"/>
+  <File Type="BITSTR-LTX" Name="debug_nets.ltx"/>
+  <File Type="BITSTR-LTX" Name="Project3_top.ltx"/>
+  <File Type="BITSTR-SYSDEF" Name="Project3_top.sysdef"/>
+  <File Type="BG-BGN" Name="Project3_top.bgn"/>
+  <File Type="BG-DRC" Name="Project3_top.drc"/>
+  <File Type="RDI-RDI" Name="Project3_top.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/../EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/Clk_1K.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../cpu/cpu.srcs/sources_1/new/alu.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/clk_1Hz.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../cpu/cpu.srcs/sources_1/new/cpu.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../cpu/cpu.srcs/sources_1/new/microram.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/mux_4to1.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/Project3_top.vhd">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../cpu/cpu.srcs/sources_1/new/microram_sim.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/../EGR426_hayejord_Project1/EGR426_hayejord_Project1.srcs/sources_1/new/counter_2bit.vhd">
+      <FileInfo>
+        <Attr Name="AutoDisabled" Val="1"/>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/testfile.coe">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PSRCDIR/sources_1/new/bcd.mem">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="Project3_top"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <File Path="$PSRCDIR/constrs_1/new/cpu_pins.xdc">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="TargetConstrsFile" Val="$PSRCDIR/constrs_1/new/cpu_pins.xdc"/>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design" EnableStepBool="1"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+  <BlockFileSet Type="BlockSrcs" Name="cpuram"/>
+</GenRun>

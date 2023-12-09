@@ -1,0 +1,1 @@
+cpuram_sim_netlist.vhdl,vhdl,xil_defaultlib,../../../../EGR426_hayejord_Project3_R2.srcs/sources_1/ip/cpuram/cpuram_sim_netlist.vhdl,

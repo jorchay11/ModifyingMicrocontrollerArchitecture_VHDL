@@ -1,0 +1,27 @@
+; Coefficient file for initializing a 512x8 RAM
+; to demonstrate CPU functionality.
+; Function: BCD0, R
+
+memory_initialization_radix = 2;
+memory_initialization_vector =
+
+11110000
+00000000
+00001110
+00010000
+00000000
+00001111
+00010000
+10100000
+00010000
+00000001
+00010000
+00010001
+10000000
+00010000
+00000001
+00010101
+00100011
+;
+
+
